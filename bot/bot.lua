@@ -91,13 +91,13 @@ function create_config( )
 	
  },
     sudo_users = {255872558},
-    admins = {},
+    admins = {101564409},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
     info_text = [[》мαχнєℓℓ v3
 
 🔰Our channel :
-》@MasihTgCh《
+》@MaxHell_News《
 
 🔰Our channel2 :
 》@MasihHack《
